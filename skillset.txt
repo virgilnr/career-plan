@@ -1,7 +1,6 @@
 What happened right now is that i really confused on what i want to learn. There are so many fields that i want to take grasp of. Those are :
-1. Able to do Data Science
-2. I want to be a Linux Power Users
-3. Understanding fullstack programming
-4. Understanding networking and sys admin
-5. Could speak Chinese
-6. Well, i guess for now i'll make use of git and github!
+- I want to be a Linux Power Users
+- Understanding fullstack programming
+- Understanding networking and sys admin
+- Could speak Chinese
+- Well, i guess for now i'll make use of git and github!
